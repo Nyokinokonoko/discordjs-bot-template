@@ -1,0 +1,25 @@
+{
+  "name": "discordjs-bot-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altkennyh2l/discordjs-bot-template.git"
+  },
+  "author": "Kenny Ha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altkennyh2l/discordjs-bot-template/issues"
+  },
+  "homepage": "https://github.com/altkennyh2l/discordjs-bot-template#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "enmap": "^5.8.2",
+    "mongoose": "^5.11.12"
+  }
+}
