@@ -1,6 +1,3 @@
-const sysmsg = require("../core/sysmsg");
-const User = require("../models/User");
-
 module.exports = async (client, message) => {
   if (message.author.bot) return;
 
